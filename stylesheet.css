@@ -9,6 +9,14 @@ img .Darcy {
     width: 200px;
 }
 
+table { 
+    table-layout: fixed; 
+}
+
+td { 
+    width: 33%; 
+}
+
 h1 {
     font-size: 80px;
     margin-bottom: 0px;
