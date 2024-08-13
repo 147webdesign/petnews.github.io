@@ -4,16 +4,8 @@
     box-sizing: border-box;
 }
 
-img {
-    width: 30px;
-}
-
-table { 
-    table-layout: fixed; 
-}
-
-td { 
-    width: 33%; 
+img.Darcy {
+    width: 200px;
 }
 
 h1 {
