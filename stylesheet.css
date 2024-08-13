@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 
-.Darcy img {
-    max-width: 50%;
+img .Darcy {
+    max-width: 30%;
     width: 200px;
 }
 
